@@ -1,0 +1,7 @@
+print '雪奥驰'
+print '雪奥驰'
+print '雪奥驰'print '雪奥驰'
+print '雪奥驰'
+print '雪奥驰'
+print '雪奥驰'
+print '雪奥驰'
